@@ -1,1 +1,3 @@
-Hi, I'm Juan Alcántara Domínguez 👋 — a Full Stack Engineer with a degree in Software Engineering. I work with technologies like React, Node.js, Python, and Docker. I'm fluent in English and Spanish, and always open to learning, and exploring new opportunities.
+# Hi, 
+## I'm Juan Alcántara Domínguez 👋
+Full Stack Engineer with a degree in Software Engineering. I work with technologies like React, Node.js, Python, and Docker. I'm fluent in English and Spanish, and always open to learning, and exploring new opportunities.
